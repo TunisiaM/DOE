@@ -1,0 +1,25 @@
+Text editor: A platform that developers use to create web based products and applications.
+
+In order to create web projects, we need to work in an environment that's conducive to the web, a text editor. There are tons of text editors, some of the popular ones are listed below:
+Atom
+Brackets
+Notepad++
+SublimeText
+Vim
+
+We will always need to work in a text editor environment and save our file with the extension that's compliant with the computer language. 
+
+Let's see what we have so far.
+
+Step 3
+
+Everyone, let's go to our Desktop and create a folder. Let's call the folder demo. 
+
+Now, let's go to our text editor and save our document. Please navigate to the folder you just created on your Desktop. Double click into the "demo" folder. Name the file you are going to save "index.html". 
+Notice my lack of capitaizations. Capitalizations and spaces do not work well in saving files and viewing them in the browser.
+
+To view our work in the browser, go to your finder window and navigate to the demo folder. You should see your index.html file. Right click on the file so you can choose which browser to view this on. For this demo, we're going to choose Chrome.
+
+Your browser should look like this:
+Image 
+

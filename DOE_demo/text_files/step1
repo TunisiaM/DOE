@@ -1,0 +1,28 @@
+Step 1
+
+Welcome to Teachers!
+
+During this quick journey, we're going to learn how to make websites using the computer language HTML. HTML is a great language to start with in understandoing basic syntax and rules when building web content. First things first, what's HTML?
+
+HTML stands for HyperText Markup Language.
+A markup language uses tags (such as < >) to identify content instead of other programming languages that uses scripts to execute a function.
+
+An example of a tag is <p>.
+
+Action: Please put <p> at the beginning of each of your answers.
+Ex. 
+<p>I teach at Bronx High School of Visual Arts.
+<p>My students are 12th graders.
+<p>My passion is using data and tech to uplift people, build solutions and create opportunities.
+
+
+
+In the world of HTML, our main elements (such as "p") have both opening tags and closing tags to enclose content.
+
+When we successfully wrap our content, the information within the tags will be visible on the browser. Here's how to complete a closing tag </>.
+
+For the element p, our closing tag would look like this -> </p>.
+
+If I need to have an opening tag and closing tag to wrap my content. Where will I put my closing tag in the example below?
+Ex.
+<p>I teach at Bronx High School of Visual Arts.

@@ -1,0 +1,34 @@
+Yes!!!
+
+<p>I teach at Bronx High School of Visual Arts.</p>
+
+Please continue to put a closing tag at the end of each of your sentences.
+
+With the content (with this example, a sentence) completely wrapped by an opening tag and a closing tag, your content will be visible.
+
+
+At the moment though, you're unable to see anything in the browser. To have an HTML website, we will need the appropriate HTML structure. Let's make a sandwich.
+
+
+Step 2
+
+With every sandwich (standard-wise) there are two pieces of bread to hold everything together: a beginning piece of bread and an ending piece of bread; an opening tag and a closing tag.
+
+Since we're writing in HTML, we have to let our browser know that we're working in an HTML document. We do this by having the following:
+
+<html>
+</html>
+
+These two tags are your opening and closing pieces of bread; without it, your website will not be whole and cease to exist. The html tags holds all the content (text, pictures, videos, etc.) within your webpage.
+
+Please surround your content with the html tags.
+Your text editor will look something like this:
+<html>
+<p>I teach at Bronx High School of Visual Arts.</p>
+<p>My students are 12th graders.</p>
+<p>My passion is using data and tech to uplift people, build solutions and create opportunities.</p>
+</html>
+
+
+Did you notice a new term?
+

@@ -1,0 +1,40 @@
+Conclusion:
+
+Now let's view your browser. You should see something like this:
+
+Image
+
+It looks the same, but we can rest easily knowing that the program is in good format.
+
+Let's add a couple of bonuses:
+1. Create a title tag: <title></title> within your head, so your tab area has a label.
+2. Let's add a header for the answers you've provided at the beginning of class. We do this by adding a heading tag; there's six to choose from: h1-h6. The higher the number the smaller the text size.
+
+Your code should look like this:
+<html>
+	<head>
+		<title>Tunisia</title>
+	</head>
+	<body>
+		<h2>Tunisia Mitchell's Story</h2>
+		<p>I teach at Bronx High School of Visual Arts.</p>
+		<p>My students are 12th graders.</p>
+		<p>My passion is using data and tech to uplift people, build solutions and create opportunities.</p>
+	</body>
+</html>
+
+3. Let's add your favorite color so everything can pop! Kindly change your body tag, by adding an attribute: bg color="". Your code should look like this
+<html>
+	<head>
+		<title>Tunisia</title>
+	</head>
+	<body bgcolor="">
+		<h2>Tunisia Mitchell's Story</h2>
+		<p>I teach at Bronx High School of Visual Arts.</p>
+		<p>My students are 12th graders.</p>
+		<p>My passion is using data and tech to uplift people, build solutions and create opportunities.</p>
+	</body>
+</html>
+
+Please select a color of your choosing from the HTML Color Picker on this website: http://www.w3schools.com/colors/colors_picker.asp
+When you're done, show off your page to your next door neighbor!

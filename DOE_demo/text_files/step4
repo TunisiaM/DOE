@@ -1,0 +1,43 @@
+Let's recap.
+
+We've learned that HTML stands for Hypertext ___ Language.
+
+When beginning a website, we have to program within a certain environment. What environment must we write in? 
+
+In order to create content for the web in HTML, we must enclose all of our content within ____. Hint --> <>
+
+To create an HTML structure, we must have <html> and </__>
+
+Image
+
+So we have our basic website, but there are a few key elements missing for this to be accurate. Let's go back to our sandwich.
+
+For a sandwich, we always have two pieces of bread... but what about the stuff inside? What if I wanted a burger, with lettuce and tomatoes?
+
+In an HTML document, we have two main elements that are always there:
+<head></head>
+<body></body>
+
+Your head element contains all the non-visual information not seen within your webpage and/or browser. This is extremely important when it comes to the computer language CSS and learning how to style your html pages.
+
+Your body tag contains all the visual content within your webpage.
+
+Step 4
+
+Please place the head tag and body tag within your text editor. It should look something like this:
+
+<html>
+	<head>
+	</head>
+	<body>
+		<p>I teach at Bronx High School of Visual Arts.</p>
+		<p>My students are 12th graders.</p>
+		<p>My passion is using data and tech to uplift people, build solutions and create opportunities.</p>
+	</body>
+</html>
+
+I've indented my head, body, and p elements so I can show my associations:
+The p tag belongs to the body.
+The body and head tags belong to html.
+
+Why else do you think I've indented?
